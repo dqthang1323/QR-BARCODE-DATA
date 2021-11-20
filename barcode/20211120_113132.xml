@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Barcode</folder>
+	<filename>20211120_113132.jpg</filename>
+	<path>C:\Users\quoct\OneDrive - Danang University of Technology\Desktop\Barcode\20211120_113132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BARCODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>926</xmin>
+			<ymin>1594</ymin>
+			<xmax>1531</xmax>
+			<ymax>2082</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>QR CODE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1485</xmin>
+			<ymin>1724</ymin>
+			<xmax>1847</xmax>
+			<ymax>2219</ymax>
+		</bndbox>
+	</object>
+</annotation>
